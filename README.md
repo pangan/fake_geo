@@ -1,0 +1,1 @@
+A class to generate fake geo coordinates!
